@@ -1,0 +1,59 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+nav{
+  padding: 5px;
+  text-align: center;
+  background: red;
+  color: white;
+  font-size: 30px;
+  position: 70px;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+ul{
+list-style-type: none;
+
+}
+li{
+  display: inline;
+}
+a{
+  text-decoration: none;
+  margin-right: 30px;
+}
+footer{
+  background: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  color: white;
+  text-align: center;
+}
+body{
+  height: 200px;
+  background-color: rgba(50, 300, 150, 0.1); /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, rgba(88, 85, 85, 0.205), black);
+}
+#home-data{
+  text-align: center;
+  padding-top: none;
+}
+#images{
+  padding: 10px;
+  text-align: center;
+  
+
+
+}
+.what{
+  
+    font-family: verdana;
+    font-size: 20px;
+   color: blue;
+}
